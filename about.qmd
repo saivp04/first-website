@@ -1,5 +1,6 @@
 ---
 title: "About"
 ---
-
-Sai Pendekanti
+My name is **Sai Pendekanti** and I am from *Metea Valley High School*.
+## About Me
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
